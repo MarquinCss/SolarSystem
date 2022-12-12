@@ -274,3 +274,9 @@ footer {
 
     transform:scale(1.1);
 }
+
+@media screen and (max-width:768px} {section,aside {
+	width:100%;
+	padding:0;
+	}
+	
